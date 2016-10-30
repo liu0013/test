@@ -1,4 +1,3 @@
-expand_keys: true
 spring:
   application:
     name: hello
